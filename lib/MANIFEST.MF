@@ -1,0 +1,1 @@
+Main-Class: .\out\production\minesweeper_4j\sc0vil\minsweeper\Main.class
